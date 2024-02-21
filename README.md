@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # iac-eks-terra4m
 this respository contains code to setup our EKS infrastructure on AWS using Terraform configuration 
 ## CONFIGURATION
@@ -13,5 +12,3 @@ to run this example you need to run :
 # REQUIREMENTS
 - Terraform
 - AWS
-
->>>>>>> e30809a6fbd4a5164b8dc6e110ed3ad9c258dacf
